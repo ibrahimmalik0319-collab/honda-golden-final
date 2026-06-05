@@ -273,7 +273,7 @@ div[data-testid="stSelectbox"] > label { display: none !important; }
 }
 .card-img-wrap img {
     width: 100%;
-    max-height: 170px;
+    max-height: 300px;
     object-fit: contain;
     display: block;
 }
